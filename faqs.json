@@ -1,0 +1,142 @@
+[
+  {
+    "category": "smalltalk",
+    "questions": ["hi", "hello", "hey", "good morning", "good evening", "assalamu alaikum", "salam"],
+    "answer": "Hello! I'm the IUBAT FAQ bot. Ask me about admission, programs, scholarships, the campus or how to contact the admission office."
+  },
+  {
+    "category": "smalltalk",
+    "questions": ["thanks", "thank you", "thanks a lot", "that helps", "great thanks"],
+    "answer": "You're welcome! Ask me anything else about IUBAT."
+  },
+  {
+    "category": "smalltalk",
+    "questions": ["bye", "goodbye", "see you", "see you later"],
+    "answer": "Goodbye! Good luck with your admission."
+  },
+  {
+    "category": "smalltalk",
+    "questions": ["what can you do", "help", "what can i ask you", "who are you", "what are you"],
+    "answer": "I answer common questions about IUBAT: admission requirements and dates, programs, scholarships, fees, campus location and contact details."
+  },
+  {
+    "category": "about",
+    "questions": ["what is iubat", "tell me about iubat", "about the university", "full form of iubat", "what does iubat stand for"],
+    "answer": "IUBAT stands for International University of Business Agriculture and Technology, a private university in Uttara, Dhaka. It is approved by the Government of Bangladesh and its curricula are approved by the University Grants Commission (UGC)."
+  },
+  {
+    "category": "about",
+    "questions": ["when was iubat established", "when was iubat founded", "who founded iubat", "founder of iubat", "history of iubat", "first private university in bangladesh"],
+    "answer": "IUBAT was founded by Prof Dr M Alimullah Miyan. Planning began in 1989 and it was established in 1991, making it the first private university in Bangladesh."
+  },
+  {
+    "category": "about",
+    "questions": ["where is iubat located", "iubat address", "campus location", "where is the campus", "how to reach iubat", "iubat uttara campus"],
+    "answer": "The permanent campus is at 4 Embankment Drive Road (off Dhaka-Ashulia Road), Sector 10, Uttara Model Town, Dhaka 1230, on the bank of the river Turag."
+  },
+  {
+    "category": "about",
+    "questions": ["how big is the campus", "campus size", "tell me about the campus", "campus life", "is the campus green"],
+    "answer": "The IUBAT campus covers about 20 bighas of river-view land in Uttara, surrounded by greenery. A Bangladesh National Cadet Corps (BNCC) platoon is active on campus."
+  },
+  {
+    "category": "programs",
+    "questions": ["what programs does iubat offer", "which undergraduate programs are available", "list of bachelor programs", "what subjects can i study", "available departments", "what courses does iubat have"],
+    "answer": "Undergraduate programs include BBA, BATHM (Tourism and Hospitality Management), BSME (Mechanical Engineering), BSAg (Agriculture), BSEEE (Electrical and Electronic Engineering), BSN (Nursing), BAEcon (Economics), BCSE (Computer Science and Engineering) and BSCE (Civil Engineering). IUBAT also offers graduate programs such as the MBA. See iubat.edu/admission for the current full list."
+  },
+  {
+    "category": "programs",
+    "questions": ["does iubat offer computer science", "is there cse at iubat", "bcse program", "computer science and engineering program", "can i study software engineering"],
+    "answer": "Yes. IUBAT offers the BCSE (Bachelor of Science in Computer Science and Engineering) under its engineering programs."
+  },
+  {
+    "category": "programs",
+    "questions": ["does iubat offer a masters program", "graduate programs at iubat", "is mba available", "postgraduate programs"],
+    "answer": "Yes. IUBAT offers graduate programs, including the MBA. Graduate fees and admission details are on iubat.edu/admission."
+  },
+  {
+    "category": "programs",
+    "questions": ["how long is the undergraduate program", "duration of bachelor degree", "how many semesters", "how many years is the bachelor program", "semesters per year"],
+    "answer": "The 4-year undergraduate programs run for 12 semesters, with three semesters in each academic year."
+  },
+  {
+    "category": "programs",
+    "questions": ["are there evening classes", "evening program for undergraduates", "do you have night classes", "evening shift"],
+    "answer": "At the moment there is no evening program for undergraduate students."
+  },
+  {
+    "category": "programs",
+    "questions": ["are iubat engineering programs recognized", "is iubat approved by ugc", "is iubat recognized", "ieb membership", "is iubat accredited"],
+    "answer": "IUBAT is approved by the Government of Bangladesh and its curricula are approved by the University Grants Commission (UGC). Some of its programs have membership of The Institution of Engineers, Bangladesh (IEB)."
+  },
+  {
+    "category": "admission",
+    "questions": ["what are the admission requirements", "minimum qualification for undergraduate admission", "who can apply", "eligibility for bachelor admission", "what do i need to apply", "how to get admission"],
+    "answer": "You need an HSC or equivalent (twelve years of formal education). The admission page lists a minimum combined GPA of 6.00 out of 9.00. You must then pass the admission test and complete the admission formalities."
+  },
+  {
+    "category": "admission",
+    "questions": ["requirements for engineering programs", "can i apply for engineering with commerce", "science group required for engineering", "higher math required", "engineering admission eligibility"],
+    "answer": "Engineering programs require Science in HSC or equivalent, with Higher Mathematics (passing grade)."
+  },
+  {
+    "category": "admission",
+    "questions": ["can gce students apply", "a level o level admission", "gce requirements", "o level and a level eligibility"],
+    "answer": "GCE candidates need 2 'A' Levels and 5 'O' Levels, with a minimum of four 'B' grades and three 'C' grades, for bachelor's programs."
+  },
+  {
+    "category": "admission",
+    "questions": ["what is the admission process", "admission procedure", "how does the admission test work", "is there an admission test", "do i need to sit an exam", "interview for admission"],
+    "answer": "Apply with the admission form, then appear for the IUBAT undergraduate written test and interview. Students who pass and meet the requirements complete admission formalities and pay the required fees."
+  },
+  {
+    "category": "admission",
+    "questions": ["admission deadline", "when does admission close", "admission test date", "when is the admission test", "is admission open", "fall 2026 admission", "next admission circular"],
+    "answer": "For Fall 2026, the undergraduate deadline was 5 August 2026 and the written test was on 7 August 2026 at 10:00 AM. Dates change each semester, so check iubat.edu/admission or email admissions@iubat.edu for the latest circular."
+  },
+  {
+    "category": "admission",
+    "questions": ["where can i get the admission form", "admission form fee", "is the application form free", "how to apply online", "online admission form"],
+    "answer": "The admission form is available at the IUBAT Admission Office on working days between 8:30 AM and 8:00 PM, and there is an online form on iubat.edu/admission. An Initial Admission Form is available free of charge."
+  },
+  {
+    "category": "admission",
+    "questions": ["what documents are needed for admission", "required documents", "do i need a photo for the form", "documents for final admission"],
+    "answer": "The application form needs a passport-size colored photograph. The full list of documents required for final admission is on iubat.edu/admission."
+  },
+  {
+    "category": "admission",
+    "questions": ["can international students apply", "admission fee for foreign students", "international student application fee", "foreign student admission"],
+    "answer": "International students can apply. The admission processing charge for international students is US $20."
+  },
+  {
+    "category": "fees",
+    "questions": ["what are the tuition fees", "how much is the tuition", "cost of the bachelor program", "fee structure", "admission fee amount", "how much does it cost"],
+    "answer": "Fees depend on your program and on the merit scholarship you receive. See iubat.edu/student/tuition-and-fees for the current table, or ask the admission office."
+  },
+  {
+    "category": "scholarship",
+    "questions": ["what scholarships are available", "does iubat give scholarships", "financial aid", "how can i get a scholarship", "merit scholarship", "scholarship types"],
+    "answer": "IUBAT offers scholarships and financial aid in several categories, including the Merit Scholarship, the Founder Dr Miyan Scholarship and the IUBAT Green Leaf Scholarship. Continuing a scholarship requires satisfactory academic performance. More at iubat.edu/scholarships."
+  },
+  {
+    "category": "scholarship",
+    "questions": ["is there a scholarship for female students", "extra scholarship for girls", "women scholarship", "female student discount"],
+    "answer": "Yes. A female student gets an additional 15% scholarship on tuition over male students."
+  },
+  {
+    "category": "scholarship",
+    "questions": ["do i keep my scholarship", "scholarship continuation", "scholarship renewal", "how to maintain scholarship"],
+    "answer": "Continuation of scholarship or financial aid is subject to satisfactory academic performance."
+  },
+  {
+    "category": "contact",
+    "questions": ["how can i contact the admission office", "admission email address", "iubat email", "how to email admissions", "where can i send my queries", "admission office phone number", "admission hotline", "iubat contact number", "call admission office"],
+    "answer": "You can reach the admission office by email at admissions@iubat.edu."
+  },
+  {
+    "category": "contact",
+    "questions": ["iubat website", "official website", "where to find admission information", "iubat admission link"],
+    "answer": "Admission information is always posted on the official website: www.iubat.edu/admission."
+  }
+]
